@@ -1,0 +1,5 @@
+{
+    "db":{
+        "password": "token_gen_password"
+    }
+}

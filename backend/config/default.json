@@ -1,0 +1,8 @@
+{
+    "db": {
+        "host": "localhost",
+        "user": "root",
+        "password": "2L9bGh&$nY",
+        "database": "token_gen"
+    }
+}
